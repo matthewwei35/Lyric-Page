@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(100,200,0);
+      font-family: "Montserrat", sans-serif;
+}
+
+.card {
+    color: red;
+}
+
+img {
+   display: block;
+   margin: auto;
+   width: 50%;
+}
+
+p {
+    background-color: aqua;
+    width: fit-content;
+}
